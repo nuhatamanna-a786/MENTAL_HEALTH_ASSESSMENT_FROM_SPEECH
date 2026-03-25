@@ -27,6 +27,12 @@ This project is a **full-stack Big Data Analytics platform** for **assessing men
 
 ## Setup & Usage
 
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev -- --host 127.0.0.1
+
 ### Backend
 ```bash
 cd backend
@@ -34,3 +40,5 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 app.py
+
+

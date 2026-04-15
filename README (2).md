@@ -29,6 +29,7 @@ The project uses a speech emotion dataset in `.wav` format.
 
 Dataset files are extracted into:
 
+
 ```text
 /content/dataset
 ```
